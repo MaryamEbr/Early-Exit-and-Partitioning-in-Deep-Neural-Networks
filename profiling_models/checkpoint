@@ -1,0 +1,2 @@
+model_checkpoint_path: "MobileNetV3_11out_bs32_epoch200_lr0.01_CIFAR(224)"
+all_model_checkpoint_paths: "MobileNetV3_11out_bs32_epoch200_lr0.01_CIFAR(224)"
